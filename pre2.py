@@ -10,7 +10,7 @@ print(answer)
 num1=88
 num2=5
 reminder=num1%num2
-print(reminder)
+print(reminder+" ")
 
 x=4
 x=x+6
