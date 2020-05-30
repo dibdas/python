@@ -22,3 +22,4 @@ first_name="hello"
 last_name="there"
 fullname=first_name+" "+last_name
 print(fullname)
+print(last_name)

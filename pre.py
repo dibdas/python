@@ -22,4 +22,4 @@ print(type(name))
 #print(x/8)
 
 x = input()
-print("hello"+" "+x)
+print("hello"+" "+x+" "+" ")
